@@ -38,6 +38,8 @@ exports.view = function(req, res){
         'image': 'lorempixel.city.2.jpeg',
         'id': 'project8'
       }
-    ]  
+    ],   
+    'projectName' : "Vinamrata Singal", 
+    'description': "Stanford BS CS '16"
   });
 };
